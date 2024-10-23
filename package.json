@@ -1,0 +1,36 @@
+{
+  "name": "cra-with-mf-storybook",
+  "version": "0.0.0",
+  "description": "Professional React app generator. This app includes React, ModuleFederation, Storybook, Storybook, module federation, Typescript, and Webpack5.",
+  "main": "index.js",
+  "author": "sunsilent",
+  "license": "MIT",
+  "type": "module",
+  "declaration": true,
+  "keywords": [
+    "react",
+    "reactjs",
+    "create react app",
+    "create-react-app",
+    "cra-with-storybook-mf",
+    "cra with storybook mf",
+    "pro",
+    "professional",
+    "production",
+    "generator"
+  ],
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sileny/cra-with-mf-storybook"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.14",
+    "ora": "^8.0.1",
+    "which": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
